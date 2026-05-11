@@ -1,7 +1,7 @@
 # [ICASSP2025] SSDViT: Exploring Siamese and Self Distillation in ViTs for Generalizable Person Re-identification
 
 ## Pipeline
-![image](figs/framework.jpg)
+![image](figs/framework.png)
 
 ## Requirements
 ### Installation
